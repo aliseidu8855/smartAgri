@@ -1,0 +1,10 @@
+asgiref
+Django
+djangorestframework
+djangorestframework_simplejwt
+gunicorn
+packaging
+pillow
+PyJWT
+sqlparse
+typing_extensions
